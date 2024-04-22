@@ -1,0 +1,1 @@
+console.log("Lines of code in add.js file: 1");
