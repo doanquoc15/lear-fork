@@ -1,0 +1,1 @@
+console.log('Code cuar tassk task_1.js...')
